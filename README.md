@@ -1,3 +1,5 @@
+Projeto referente a um controle de contas a pagar.
+
 Seguir o passo a passo para a execução do sistema:
 
 1 - Necessário a instalação do Node, Express, MongoDB;
